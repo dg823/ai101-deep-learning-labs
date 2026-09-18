@@ -1,0 +1,13 @@
+deep_learning_book_exercise-main/
+data/
+.data/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.pkl
+*.zip
+.vscode/
+imagenet_samples/
+AI101_Merged_Notes.md
+GEMINI_SESSION.md
